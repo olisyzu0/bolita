@@ -2,7 +2,7 @@ const messages = [
     "Preparando algo especial...",
     "Para la bolita más importante...",
     "Que llena mi vida de amor...",
-    "Y hace latir mi corazón...",
+    "De un puerquito para una bolita...",
     "Te amo..."
 ];
 
